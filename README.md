@@ -1,2 +1,2 @@
 # FDTDEngine.jl
-Renamed to [Luminesce.jl](https://paulxshen.github.io/Luminesce.jl/)
+Renamed to [Luminesce.jl](https://paulxshen.github.io/Luminescent.jl/)
